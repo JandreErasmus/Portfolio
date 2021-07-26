@@ -19,6 +19,7 @@ function App() {
         <Work/>
         <Portfolio/>
         <Contact/>
+        
       </div>
     </div>
   );
