@@ -56,10 +56,6 @@ export const featuredPortfolio = [
     },
     {
       id: 4,
-      title: "Wikipedia Search engine",
-      img: "assets/Wiki.PNG"},
-    {
-      id: 5,
       title: "Youtube Video Downloader",
       img: "assets/Yt.jpg"},
    
