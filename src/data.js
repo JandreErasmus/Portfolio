@@ -4,7 +4,7 @@ export const featuredPortfolio = [
       title: "Face Recognition Program",
       img:
         "assets/FaceDetection.PNG",
-        link:"https://github.com/JandreErasmus/Portfolio",
+        link:"https://github.com/JandreErasmus/Portfolio/tree/master",
         
     },
     {
@@ -12,35 +12,35 @@ export const featuredPortfolio = [
       title: "Mobile Shop System",
       img:
         "assets/Mobile.jpg",
-        link:"https://github.com/JandreErasmus/Portfolio",
+        link:"https://github.com/JandreErasmus/Portfolio/tree/master",
     },
     {
       id: 3,
       title: "Cryptographic system",
       img:
         "assets/Security.jpeg",
-        link:"https://github.com/JandreErasmus/Portfolio",
+        link:"https://github.com/JandreErasmus/Portfolio/tree/master",
     },
     {
       id: 4,
       title: "Portfolio",
       img:
         "assets/portfolio.jpg",
-        link:"https://github.com/JandreErasmus/Portfolio",
+        link:"https://github.com/JandreErasmus/Portfolio/tree/master",
     },
     {
       id: 5,
       title: "File Uploader + Meta Data Classification",
       img:
         "assets/File.png",
-        link:"https://github.com/JandreErasmus/Portfolio",
+        link:"https://github.com/JandreErasmus/Portfolio/tree/master",
     },
     {
       id: 6,
       title: "Sport Ticket Booking System",
       img:
         "assets/SportTicket.jpg",
-        link:"https://github.com/JandreErasmus/Portfolio",
+        link:"https://github.com/JandreErasmus/Portfolio/tree/master",
     },
   ];
   
